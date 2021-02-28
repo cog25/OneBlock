@@ -1,4 +1,5 @@
-## Minecraft: Bedrock Edition Server based OneBlock!
+## OneBlock
+Minecraft: Bedrock Edition Server based OneBlock!
 This is for my friends!
 
 ### Note.
